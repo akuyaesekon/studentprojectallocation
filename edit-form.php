@@ -15,8 +15,11 @@
 				<label class="control-label">Project Level</label>
 				<select name="project_level" class="form-control input-sm " required>
 				  <option value="<?php echo $project_level; ?>" selected><?php echo $project_level; ?></option>
-				  <option value="ND">ND</option>
-				  <option value="HND">HND</option>
+				  <option>Diploma</option>
+				  <option>Degree</option>
+                                  <option>Post Graduate</option>
+                                  <option>Masters</option>
+                                  <option>PHD</option>
 				</select>
 			</div>
             <input type="hidden" name="project_id" value="<?php echo $_GET['id']; ?>">

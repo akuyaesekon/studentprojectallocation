@@ -19,12 +19,10 @@
 			<div class="form-group">
 				<label class="control-label">Class</label>
 				<select name="std_class" class="form-control input-sm " required>
-				  <option value="ND">ND 1</option>
-				  <option value="ND 2">ND 2</option>
-				  <option value="ND 3">ND 3</option>
-				  <option value="HND 1">HND 1</option>
-				  <option value="HND 2">HND 2</option>
-				  <option value="HND 3">HND 3</option>
+				  <option value="ND">First Year</option>
+				  <option value="ND 2">Second Year</option>
+				  <option value="ND 3">3rd Year</option>
+				  <option value="HND 1">4th Year</option>
 				</select>
 			</div>
 

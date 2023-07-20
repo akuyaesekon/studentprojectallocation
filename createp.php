@@ -14,8 +14,11 @@
 			<div class="form-group">
 				<label class="control-label">Project Level</label>
 				<select name="project_level" class="form-control input-sm " required>
-				  <option>ND</option>
-				  <option>HND</option>
+				  <option>Diploma</option>
+				  <option>Degree</option>
+                                  <option>Post Graduate</option>
+                                  <option>Masters</option>
+                                  <option>PHD</option>
 				</select>
 			</div>
 
